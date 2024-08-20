@@ -101,7 +101,7 @@ header ul.nav li:last-child{
     text-align: center;
  }
  .banner-area .banner-img{
-   background-image: url(full bg.jpg);
+   background-image: url(full\bg.jpg);
    position: absolute;
    top: 0;
    left: 0;
