@@ -101,7 +101,7 @@ header ul.nav li:last-child{
     text-align: center;
  }
  .banner-area .banner-img{
-   background-image: url(images/full\ bg.jpg);
+   background-image: url( bg.jpg);
    position: absolute;
    top: 0;
    left: 0;
@@ -169,7 +169,7 @@ ul.about-content{
 }
 .about-left{
     flex-basis:30%;
-    background-image: url(images/3.jpg);
+    background-image: url(3.jpg);
 }
 .about-right{
     flex-basis: 70%;
@@ -219,7 +219,7 @@ ul.about-content{
 }
 /* msg area */
 .msg-area{
-    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(images/a2.jpeg);
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(a2.jpeg);
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
